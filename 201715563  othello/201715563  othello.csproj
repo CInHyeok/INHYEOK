@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_201715563__othello</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\BlackCoin.png" />
+    <None Remove="Image\othello main.PNG" />
+    <None Remove="Image\WhiteCoin.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\BlackCoin.png" />
+    <Resource Include="Image\othello main.PNG" />
+    <Resource Include="Image\WhiteCoin.png" />
+  </ItemGroup>
+
+</Project>

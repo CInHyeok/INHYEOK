@@ -1,0 +1,21 @@
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.exe
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.deps.json
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.runtimeconfig.json
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.runtimeconfig.dev.json
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.dll
+C:\201715563 최인혁\201715563  othello\201715563  othello\bin\Debug\netcoreapp3.1\201715563  othello.pdb
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.csprojAssemblyReference.cache
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\MainWindow1.g.cs
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\App.g.cs
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello_MarkupCompile.cache
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello_MarkupCompile.lref
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\MainWindow1.baml
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.g.resources
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.AssemblyInfoInputs.cache
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.AssemblyInfo.cs
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.csproj.CoreCompileInputs.cache
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.dll
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.pdb
+C:\201715563 최인혁\201715563  othello\201715563  othello\obj\Debug\netcoreapp3.1\201715563  othello.genruntimeconfig.cache
